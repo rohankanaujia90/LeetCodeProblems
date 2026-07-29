@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0520-detect-capital](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0520-detect-capital) |
 ## Sorting
 |  |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0013-roman-to-integer) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
