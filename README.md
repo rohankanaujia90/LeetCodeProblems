@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Dynamic Programming
@@ -27,6 +28,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
