@@ -8,6 +8,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
