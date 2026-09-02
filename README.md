@@ -18,6 +18,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0020-valid-parentheses) |
+| [0412-fizz-buzz](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0520-detect-capital) |
 ## Sorting
 |  |
@@ -37,6 +38,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Stack
 |  |
@@ -63,4 +65,8 @@
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
