@@ -37,6 +37,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0013-roman-to-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Stack
 |  |
 | ------- |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1672-richest-customer-wealth) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
