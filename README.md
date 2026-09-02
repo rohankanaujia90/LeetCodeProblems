@@ -69,4 +69,12 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0412-fizz-buzz) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
