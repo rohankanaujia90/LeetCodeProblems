@@ -18,6 +18,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0020-valid-parentheses) |
+| [0383-ransom-note](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0520-detect-capital) |
 ## Sorting
@@ -33,6 +34,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0013-roman-to-integer) |
+| [0383-ransom-note](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0876-middle-of-the-linked-list) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
