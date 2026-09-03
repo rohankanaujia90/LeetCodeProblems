@@ -41,6 +41,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -68,6 +69,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
@@ -88,6 +90,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
