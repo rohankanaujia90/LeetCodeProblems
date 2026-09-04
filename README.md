@@ -47,6 +47,7 @@
 | [0412-fizz-buzz](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/2443-sum-of-number-and-its-reverse) |
 ## Stack
 |  |
 | ------- |
@@ -101,4 +102,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [2443-sum-of-number-and-its-reverse](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/2443-sum-of-number-and-its-reverse) |
 <!---LeetCode Topics End-->
