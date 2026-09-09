@@ -12,6 +12,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0509-fibonacci-number) |
 ## String
@@ -41,6 +42,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0342-power-of-four) |
@@ -102,6 +104,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
