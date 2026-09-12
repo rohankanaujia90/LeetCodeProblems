@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1480-running-sum-of-1d-array) |
