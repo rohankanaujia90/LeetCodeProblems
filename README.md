@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1470-shuffle-the-array) |
@@ -28,6 +29,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -39,6 +41,7 @@
 | [0001-two-sum](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0383-ransom-note](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0383-ransom-note) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -117,4 +120,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
