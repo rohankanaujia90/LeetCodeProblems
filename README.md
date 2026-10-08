@@ -26,6 +26,7 @@
 | [0383-ransom-note](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0520-detect-capital) |
+| [0844-backspace-string-compare](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sorting
 |  |
@@ -63,6 +64,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0232-implement-queue-using-stacks) |
+| [0844-backspace-string-compare](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
@@ -90,6 +92,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0844-backspace-string-compare) |
 ## Linked List
 |  |
 | ------- |
@@ -97,6 +100,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0876-middle-of-the-linked-list) |
 ## Counting
 |  |
