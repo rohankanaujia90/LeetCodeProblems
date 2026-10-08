@@ -28,6 +28,7 @@
 | [0520-detect-capital](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0520-detect-capital) |
 | [0844-backspace-string-compare](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0232-implement-queue-using-stacks) |
 | [0844-backspace-string-compare](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
 | ------- |
