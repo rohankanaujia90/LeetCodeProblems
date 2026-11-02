@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -61,6 +62,7 @@
 | [0412-fizz-buzz](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1512-number-of-good-pairs) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/2443-sum-of-number-and-its-reverse) |
