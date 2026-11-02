@@ -11,6 +11,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1929-concatenation-of-array) |
@@ -47,6 +48,7 @@
 | [0013-roman-to-integer](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0383-ransom-note](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 | [0507-perfect-number](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1512-number-of-good-pairs) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
@@ -113,6 +116,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/0383-ransom-note) |
+| [1512-number-of-good-pairs](https://github.com/rohankanaujia90/LeetCodeProblems/tree/master/1512-number-of-good-pairs) |
 ## Recursion
 |  |
 | ------- |
